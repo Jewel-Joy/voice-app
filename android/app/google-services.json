@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "535787803432",
+    "project_id": "voice-app-123",
+    "storage_bucket": "voice-app-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535787803432:android:2026984ebe15efbc6f761d",
+        "android_client_info": {
+          "package_name": "com.example.voice_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535787803432-jg6bue56ulh4bvu8qm48mou247neu26m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc7IzC8YShcZSHE7wMlGZXEEFtMIe2kdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535787803432-jg6bue56ulh4bvu8qm48mou247neu26m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535787803432-60n5ifphh5d66e90ohn2gkpu16f986gl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voiceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
